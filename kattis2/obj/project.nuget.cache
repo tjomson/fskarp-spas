@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "hognBfnKOVItNas7BQO1wc1IQFCuYfW84oUV3WnJ8Wg5x1wkefDlcERtAbMKrnQhDctJx87Utif+k3ylgRAskg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Tjoms\\Documents\\GitHub\\fskarp-spas\\kattis2\\kattis2.fsproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Tjoms\\.nuget\\packages\\fsharp.core\\4.7.2\\fsharp.core.4.7.2.nupkg.sha512"
+  ],
+  "logs": []
+}
